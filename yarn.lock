@@ -12973,9 +12973,10 @@ toidentifier@1.0.0:
   resolved "https://registry.yarnpkg.com/toidentifier/-/toidentifier-1.0.0.tgz#7e1be3470f1e77948bc43d94a3c8f4d7752ba553"
   integrity sha512-yaOH/Pk/VEhBWWTlhI+qXxDFXlejDGcQipMlyxda9nthulaxLZUNcUqFxokp0vcYnvteJln5FNQDRrxj3YcbVw==
 
-toml@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/toml/-/toml-3.0.0.tgz#342160f1af1904ec9d204d03a5d61222d762c5ee"
+toml@^4.2.0:
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/toml/-/toml-4.2.0.tgz#a54ab41408738b3521e662a50f6423b168cb46dc"
+  integrity sha512-TvAJjbHZlYmI323+srtqHQFyJsoWy6mI09ppkuj9+iRsqsVKG9fvTcOP7FHF2UCb0QSYtjEavffrKzdd0XgClg==
 
 too-wordy@^0.1.4:
   version "0.1.6"
